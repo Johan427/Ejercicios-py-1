@@ -184,7 +184,7 @@ print ("lista 2: ",l2 )
 print ("listas unidas :",l3 )
 
 #27#
-fr= input("Ingresa una frase: ")
+fr= (input("Ingresa una frase: "))
 pal = fr.split()
 cant = len(pal)
 
@@ -193,7 +193,7 @@ print("la frase:", fr,"\ntiene", cant, "palabras")
  
 #28
 
-pal = input("Ingresa una palabra: ")
+pal = (input("Ingresa una palabra: "))
 pal =pal.lower()
 
 if pal == pal[::-1]:
