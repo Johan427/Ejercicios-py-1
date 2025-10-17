@@ -1,3 +1,5 @@
+# ALUMNO Johan Sebastian Beleño Toloza
+
 """NOTA: es mejor ejecutar los ejecicios individualmente 
 ya que algunos tienen variables con el mismo nombre y pueden ocacionar errores al ejecutar todos a la ves"""
 import math
