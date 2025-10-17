@@ -1,3 +1,5 @@
+#Alumno: Johan Sebastian Beleño Toloza
+
 n1=int(input("digite el 1mer numero"))
 n2=int(input("digite el 1mer numero"))
 r=n1+n2
