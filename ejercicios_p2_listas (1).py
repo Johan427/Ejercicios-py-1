@@ -37,7 +37,9 @@ for i in range(5):
   valor_c.append(n) #agregar a valor_c para guardadr numeros
 
 #################################################################
-
+"""
+Ejercicio# 3 poker o no
+"""
 count_c = Counter(valor_c)
 
 if 4 in count_c.values():
